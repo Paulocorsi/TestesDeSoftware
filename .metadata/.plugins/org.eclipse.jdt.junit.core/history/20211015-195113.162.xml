@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Ed08ApplicationTests" project="ed08" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.fatec.ed08.Ed08ApplicationTests" time="0.843" displayname="Ed08ApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.fatec.ed08.Ed08ApplicationTests]">
+    <testcase name="contextLoads" classname="com.fatec.ed08.Ed08ApplicationTests" time="0.843" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:com.fatec.ed08.Ed08ApplicationTests]/[method:contextLoads()]"/>
+  </testsuite>
+</testrun>

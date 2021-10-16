@@ -1,0 +1,27 @@
+package com.fatec.cap08;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+import org.junit.jupiter.api.Test;
+
+class REQ04CadastrarCliente {
+	
+	private Collection<Object> lista;
+
+	@Test
+	void ct01_verifica_inclusao_de_cliente_no_array() {
+		//dado que a lista esta vazia (pre-requisito)
+		lista = new ArrayList<Object>();	
+		//quando dois elementos sao incluidos na lista
+		lista.add("jose");
+		lista.add("maria");
+		//então a quantidade de elementos na lista eh igual a 2
+		assertEquals(2, lista.size());
+		
+		
+	}
+
+}

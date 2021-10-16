@@ -1,0 +1,17 @@
+package com.fatec.cap08;
+
+import java.util.Collection;
+
+import org.junit.jupiter.api.Test;
+
+class REQ04CadastrarCliente {
+	
+	private Collection<Object> lista;
+
+	@Test
+	void ct01_verifica_inclusao_de_cliente_no_array() {
+		
+		
+	}
+
+}
